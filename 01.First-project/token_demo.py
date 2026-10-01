@@ -52,6 +52,7 @@ texts = [
     "Hello",
     "Hello world",
     "I love AI",
+    "Hello Rudra",
     "Generative Artificial Intelligence",
     "Hello, how are you?",
 ]
