@@ -27,7 +27,22 @@ pip install agno streamlit openai groq ddgs
 python agent.py
 
 
+<!-- ============= Tokens ==================== -->
 
+- pip install tiktoken
+- pip show tiktoken
+
+
+```
+Text
+ ↓
+Tokenizer
+ ↓
+Token IDs
+ ↓
+LLM
+
+```
 
 
 
