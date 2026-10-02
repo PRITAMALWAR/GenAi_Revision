@@ -18,5 +18,11 @@ print("Character count:", len(text))
 print("Token count:", len(tokens))
 
 
+
+# Words
+words = text.split()
+print("words:" ,words)
+
+
 for token in tokens:
     print(token, "=", encoding.decode([token]))
