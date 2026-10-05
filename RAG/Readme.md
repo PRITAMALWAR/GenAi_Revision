@@ -1,4 +1,4 @@
-# GenAI
+# GenAI 
 
 # Level 1 — Understand RAG
 
@@ -332,3 +332,20 @@ prompt
     ↓
 LLM
 ```
+
+
+
+# Vector Databases
+
+- Pinecone : -
+
+Index
+Namespace
+Vector
+Metadata
+Upsert
+Query
+Top-K
+Metadata Filter
+Delete
+Update
