@@ -20,10 +20,16 @@ Installed packages, including Express and its dependencies.
 
 
 ```
-require("express") — imports Express.
-express() — creates the Express application.
-app.get("/") — handles GET requests to the home route.
-res.send() — sends a response to the client.
-app.listen(3000) — starts the server on port 3000.
+```
+
+- require("express") — imports Express.
+
+- express() — creates the Express application.
+
+- app.get("/") — handles GET requests to the home route.
+
+- res.send() — sends a response to the client.
+
+- app.listen(3000) — starts the server on port 3000.
 
 ```
