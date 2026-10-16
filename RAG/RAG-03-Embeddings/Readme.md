@@ -26,6 +26,14 @@ LoRA
 PEFT
 SFT
 
+# LLM Evaluation
+Accuracy
+Relevance
+Faithfulness
+Context relevance
+Answer relevance
+Retrieval quality
+
 # Embeddings
 
 1. What are Embeddings?
