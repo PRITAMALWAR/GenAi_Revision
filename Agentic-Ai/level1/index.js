@@ -19,13 +19,10 @@
 
 
 
-
-
-
-
-
-
 const express = require("express");
+const dotenv = require("dotenv");
+
+dotenv.config();
 
 const app = express();
 
@@ -33,8 +30,8 @@ app.get("/", (req, res) => {
     res.send("Hello! Express server is running.");
 });
 
+const PORT = process.env.PORT || 8809;
 
-const PORT = 8809
 app.listen(PORT, () => {
-    console.log(`Server running at ${PORT}`);
+    console.log(`Server running at http://localhost:${PORT}`);
 });

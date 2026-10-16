@@ -33,3 +33,19 @@ Installed packages, including Express and its dependencies.
 - app.listen(3000) — starts the server on port 3000.
 
 ```
+
+```
+
+dotenv  = 	Loads variables from .env
+
+npm init -y = 	Creates package.json with defaults
+
+Port = 	Identifies a service endpoint on a computer
+
+URL = 	Address of a resource
+
+localhost =	Your own computer
+
+process.env.PORT = 	Port value from environment variables
+
+```
