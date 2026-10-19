@@ -16,9 +16,6 @@ pip install tiktoken
 
 
 
-
-
-
 <!-- ================================== install all packeges ======================================== -->
 sudo apt install python3-venv python3-full
 python3 -m venv .venv
